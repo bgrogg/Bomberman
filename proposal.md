@@ -17,7 +17,7 @@ In Bomberman, users will be able to:
 
 This app will consist of a single screen with game board, game controls, and nav links to my Github and LinkedIn. Game controls will include start, pause, and reset buttons. The game controls are rather simple (W,A,S,D and spacebar) so a minimalistic how-to featuring images of those keys is all that will be needed in terms of explanation. This will be found on the sidebar, along with the nav links.
 
-!(Landing page)[docs/wireframes/bomberman.png]
+![Landing page](docs/wireframes/bomberman.png)
 
 
 ## Architecture and Technologies
