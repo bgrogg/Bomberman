@@ -1,19 +1,19 @@
 canvas {
-  border: 10px solid rgba(200,200,200,.5);
+  border: 5px solid gray;
   background: black;
   float: left;
-  margin-top: 150px;
+  margin-top: 50px;
 }
 
 .canvas-div {
-  width: 650px;
-  height: 750px;
-  margin-top: 100px;
+  width: 640px;
+  height: 645px;
+  margin-top: 0px;
   margin: auto;
 }
 
 .instructions {
-  margin-top: -350px;
+  margin-top: -450px;
   position: fixed;
   width: 100%;
 
@@ -25,7 +25,7 @@ canvas {
   margin: 0 auto;
   position: relative;
   width: 650px;
-  background: black;
+  background: #000;
 }
 
 IMG {
@@ -33,22 +33,18 @@ IMG {
   height: 550px;
 }
 
-/*.hello {
-  background: black;
-}*/
-
 h2 {
   width: 168px;
   padding: 23px;
   margin: auto;
   border-radius: 10px;
-  background: black;
-  color: rgba(700,200,0,1);
+  background: #000;
+  color: #fff;
   text-align: center;
 }
 
 body {
-  background: url(assets/bomberwallpaper.png);
+  background-image: url("../assets/arcade.jpg");
   height: 99%;
   width: 99%;
   background-size: cover;
@@ -110,7 +106,6 @@ h2 {
   float: right;
   background: black;
   margin-top: 50px;
-  /*background-image: url(assets/arrow-keys.jpg);*/
   background-position: center;
   overflow: hidden;
 }
@@ -132,5 +127,5 @@ h2 {
 }
 
 .new-game:hover {
-  background: #ddd;
+  background: yellow;
 }*/
